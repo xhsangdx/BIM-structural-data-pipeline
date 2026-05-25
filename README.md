@@ -41,3 +41,4 @@ pipeline = StructuralDataBridge("./models/building_structure_v1.ifc")
 pipeline.export_to_json("./output/normalized_schema.json")
 
 * Upgraded validation matrix logic for dynamic loads.
+* Upgraded validation matrix logic for dynamic loads.
