@@ -9,7 +9,7 @@ Structural engineering computations (e.g., calculation of shear walls, moment fr
 * **Schema Normalization:** Translates proprietary IFC/BIM data structures into standardized JSON formats.
 * **Structural Logic Core:** Provides open-source modules for calculating bending moments, axial forces, and structural safety coefficients.
 * **Automation-Ready:** Built to feed structured mathematical models straight into visualization libraries.
-
+ 
 ## Code Preview (Integration Example)
 
 ```python
