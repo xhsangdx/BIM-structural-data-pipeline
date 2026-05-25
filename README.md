@@ -4,7 +4,7 @@ An open-source data pipeline and asset bridge designed to extract, normalize, an
 
 ## Why This Project Exists
 Structural engineering computations (e.g., calculation of shear walls, moment frames, and lateral load distributions) are heavily locked inside proprietary, high-cost software. This project serves as a critical, open-source bridge allowing independent developers and architectural researchers to integrate certified structural calculation logic directly into open-source rendering engines and CAD tools.
-
+ 
 ## Key Features
 * **Schema Normalization:** Translates proprietary IFC/BIM data structures into standardized JSON formats.
 * **Structural Logic Core:** Provides open-source modules for calculating bending moments, axial forces, and structural safety coefficients.
